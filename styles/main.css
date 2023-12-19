@@ -1,0 +1,25 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Assistant', sans-serif;
+}
+
+#navber:hover, #navpel:hover, #navmob:hover, #navtar:hover, #navtran:hover {
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+.navbar-brand{
+    font-weight: bolder;
+}
+
+footer.watermark {
+    padding: 5px;
+    background-color: #29A9DF;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.watermark p {
+    color: white;
+}
